@@ -395,4 +395,52 @@
     <icon drawable="@drawable/themed_icon_netease" package="com.netease.cloudmusic" />
     <icon drawable="@drawable/themed_icon_wechat" package="com.tencent.mm" />
     <icon drawable="@drawable/themed_icon_taobao" package="com.taobao.taobao" />
+    <icon drawable="@drawable/themed_icon_3dshot" package="com.cappasity.threedshot" />
+    <icon drawable="@drawable/themed_icon_adobe_acrobat" package="com.adobe.reader" />
+    <icon drawable="@drawable/themed_icon_air_horn" package="com.ivandigital.airhorn" />
+    <icon drawable="@drawable/themed_icon_avito" package="com.avito.android" />
+    <icon drawable="@drawable/themed_icon_busyfly" package="soft.gelios.com.scooter" />
+    <icon drawable="@drawable/themed_icon_capcut" package="com.lemon.lvoverseas" />
+    <icon drawable="@drawable/themed_icon_catalog_onliner" package="by.onliner.catalog" />
+    <icon drawable="@drawable/themed_icon_droidcam" package="com.dev47apps.droidcam" />
+    <icon drawable="@drawable/themed_icon_eleven_scooters" package="com.eleven.scooters" />
+    <icon drawable="@drawable/themed_icon_ewelink" package="com.coolkit" />
+    <icon drawable="@drawable/themed_icon_fl_studio_mobile" package="com.imageline.FLM" />
+    <icon drawable="@drawable/themed_icon_gfx_tool" package="com.tsoml.graphicssettings" />
+    <icon drawable="@drawable/themed_icon_giveaway" package="com.giveaway.app" />
+    <icon drawable="@drawable/themed_icon_jet_sharing" package="com.jetscooters" />
+    <icon drawable="@drawable/themed_icon_kolobile" package="by.kolobike" />
+    <icon drawable="@drawable/themed_icon_kufar" package="se.scmv.belarus" />
+    <icon drawable="@drawable/themed_icon_m_belarusbank" package="com.mobicon.mbank2.belarusbank" />
+    <icon drawable="@drawable/themed_icon_mi_calculator" package="com.miui.calculator" />
+    <icon drawable="@drawable/themed_icon_mi_remote" package="com.duokan.phone.remotecontroller" />
+    <icon drawable="@drawable/themed_icon_my_a1" package="by.a1.selfcare" />
+    <icon drawable="@drawable/themed_icon_nrj" package="genevios.nrj_ua" />
+    <icon drawable="@drawable/themed_icon_nrj" package="ru.ideast.nrj" />
+    <icon drawable="@drawable/themed_icon_nrj" package="be.nrj.nrjbelgie" />
+    <icon drawable="@drawable/themed_icon_nrj" package="org.radioappsbg.radionrj" />
+    <icon drawable="@drawable/themed_icon_nrj" package="fr.redshift.nrj" />
+    <icon drawable="@drawable/themed_icon_nrj" package="theapp.concept.NRJ" />
+    <icon drawable="@drawable/themed_icon_nrj" package="fr.redshift.nrjreunion" />
+    <icon drawable="@drawable/themed_icon_nrj" package="de.radio.nrj" />
+    <icon drawable="@drawable/themed_icon_nrj" package="com.pswgroup.nrjlebanon" />
+    <icon drawable="@drawable/themed_icon_nrj" package="fr.redshift.nrjautriche" />
+    <icon drawable="@drawable/themed_icon_nrj" package="com.icreo.energysxm" />
+    <icon drawable="@drawable/themed_icon_nrj" package="fr.redshift.nrjbelgique" />
+    <icon drawable="@drawable/themed_icon_oplati" package="by.lwo.oplati" />
+    <icon drawable="@drawable/themed_icon_photomath" package="com.microblink.photomath" />
+    <icon drawable="@drawable/themed_icon_psiphon" package="com.psiphon3.subscription" />
+    <icon drawable="@drawable/themed_icon_shareme" package="com.xiaomi.midrop" />
+    <icon drawable="@drawable/themed_icon_shazam" package="com.shazam.android" />
+    <icon drawable="@drawable/themed_icon_shkola_by" package="by.ds.schools_by" />
+    <icon drawable="@drawable/themed_icon_steam" package="com.valvesoftware.android.steam.community" />
+    <icon drawable="@drawable/themed_icon_vmp" package="com.grif.vmp" />
+    <icon drawable="@drawable/themed_icon_vqr" package="com.vqr_android" />
+    <icon drawable="@drawable/themed_icon_vtosters" package="com.vtosters.android" />
+    <icon drawable="@drawable/themed_icon_wikimapia" package="com.wikimapia.android" />
+    <icon drawable="@drawable/themed_icon_yandex_maps" package="ru.yandex.yandexmaps" />
+    <icon drawable="@drawable/themed_icon_oplati" package="by.lwo.oplati" />
+    <icon drawable="@drawable/themed_icon_yes_sharing" package="soft.gelios.com.togo" />
+    <icon drawable="@drawable/themed_icon_zepp" package="com.huami.watch.hmwatchmanager" />
+    <icon drawable="@drawable/themed_icon_oz_by" package="by.oz.android" />
 </icons>
